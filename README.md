@@ -97,6 +97,16 @@ python app.py
 - Support for direct input and JSON file loading
 
 ## Output
+![1](https://github.com/user-attachments/assets/6de0e671-1323-4c1d-8984-654d4767c79e)
+![2](https://github.com/user-attachments/assets/0ce086c2-1f6e-4969-90bd-ed0a3df8a754)
+![3](https://github.com/user-attachments/assets/07d9251a-981b-4dd9-aaa0-2ceec82c5229)
+![4](https://github.com/user-attachments/assets/148afcae-73fb-4dc5-a805-74cfa53c72d5)
+![result](https://github.com/user-attachments/assets/d3b4fbbf-cd18-417d-b8a6-42dce0fb9e2b)
+
+
+
+
+
 
 ## License
 
