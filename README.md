@@ -1,4 +1,4 @@
-# Just Another Friday
+# Cortex:Adaptive Multi Channel Communication Assistant
 
 A sophisticated customer feedback analysis system built with Python, leveraging AI to process, analyze, and respond to customer feedback automatically.
 
@@ -45,10 +45,10 @@ GROQ_API_KEY=your_groq_api_key
 
 1. Start the Flask application:
 ```bash
-python app.py
+python app.py or for terminal use running.py
 ```
 
-2. Navigate to `http://localhost:5000` in your web browser
+2. Navigate to `http://localhost:5000` in your web browser or just enter the basic details through terminal.
 
 3. Initialize the system:
    - Enter your company name
@@ -103,14 +103,6 @@ python app.py
 ![4](https://github.com/user-attachments/assets/148afcae-73fb-4dc5-a805-74cfa53c72d5)
 ![result](https://github.com/user-attachments/assets/d3b4fbbf-cd18-417d-b8a6-42dce0fb9e2b)
 
-
-
-
-
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
