@@ -1,4 +1,4 @@
-# Cortex:Adaptive Multi Channel Communication Assistant
+# Cortex: Adaptive Multi Channel Communication Assistant
 
 A sophisticated customer feedback analysis system built with Python, leveraging AI to process, analyze, and respond to customer feedback automatically.
 
