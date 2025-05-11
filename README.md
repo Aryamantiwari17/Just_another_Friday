@@ -76,6 +76,8 @@ python app.py or for terminal use running.py
 │   └── styles.css        # Custom styles
 └── requirements.txt      # Project dependencies
 ```
+## Video Demonstration
+https://github.com/user-attachments/assets/1f9d30e1-1ecf-4d63-add2-cc37aef6f573
 
 ## Features in Detail
 
